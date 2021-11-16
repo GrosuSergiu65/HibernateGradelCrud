@@ -1,0 +1,8 @@
+md/hibernate/practice/entity/User.java
+ md.hibernate.practice.entity.User
+md/hibernate/practice/HibernateUtil.java
+ md.hibernate.practice.HibernateUtil
+md/hibernate/practice/crud/UserDAO.java
+ md.hibernate.practice.crud.UserDAO
+md/hibernate/practice/Main.java
+ md.hibernate.practice.Main
